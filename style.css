@@ -1,0 +1,45 @@
+.h1{
+    text-align: center;
+    color: white;
+    background-color:#EA7773;
+    font-size: 50px;
+    font-family : 'Grenze Gotisch', cursive ;
+}
+.a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.spiderman h2{
+    font-size: 30px;
+    color: #EA425C;
+}
+.spiderman p{
+    letter-spacing: 4px;
+    text-indent: 100px;
+}
+.CA h2{
+    text-align: right;
+    font-size: 50px;
+    color: #487EB0;
+    text-decoration: overline;
+}
+.CA p{
+    text-align: right;
+    line-height: 40px;
+    word-spacing: 4px;
+}
+.IM h2{
+    text-align: center;
+    background-color:#487EB0;
+    font-size: 50px;
+    text-decoration:underline;
+    color: #EEC213;
+}
+.IM p{
+    text-decoration: line-through;
+}
+.IM #p2{
+text-decoration: none;
+direction: rtl;
+unicode-bidi: bidi-override;
+}
