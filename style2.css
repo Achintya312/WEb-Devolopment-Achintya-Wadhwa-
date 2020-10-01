@@ -1,0 +1,60 @@
+body{
+    background-color: #1BCA9B;
+}
+#hey{
+    font-size: 15px;
+}
+.three{
+    font-size: 15px;
+}
+#one{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;    
+    background-color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:teal;
+}
+.two{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px; 
+    border-style: solid;
+    border-color:teal;   
+}
+.four{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:teal;
+}
+.five{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: teal;
+}
+.six{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:teal;
+}
+#portfolio{
+    border-style: solid;
+    color: teal;
+    border-color: teal;
+}
